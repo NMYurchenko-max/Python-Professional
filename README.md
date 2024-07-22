@@ -45,7 +45,7 @@ pip freeze > requirements.txt
 - [normalize.py](/Regulars/normalize.py)  - неудачная реализация (по стопам лекции)
 
 =================================
-### [Тема 3: WEB-SCRAHING:](/WEB-SCRAPING/)
+### [Тема 3: WEB-SCRAPING:](/WEB-SCRAPING/)
 
 - [Презентация](/WEB-SCRAPING/Present_Веб-скрапинг_Табельский.pdf)
   
